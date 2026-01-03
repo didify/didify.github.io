@@ -1,0 +1,8 @@
+# Ignore local test files
+*.local
+.env
+.DS_Store
+
+# Keep the did.json file - it should be committed
+!.well-known/did.json
+
